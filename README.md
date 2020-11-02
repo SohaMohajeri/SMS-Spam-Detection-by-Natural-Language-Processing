@@ -13,7 +13,6 @@
 
 <div align="justify">
 
-
 The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam. The files contain one message per row and each row contains the label (ham or spam) and the raw text message.
 
 In this notebook, we will use nltk librarie to predict and classify the label of text messages and correctly predict a given piece of text as Spam or Ham.
