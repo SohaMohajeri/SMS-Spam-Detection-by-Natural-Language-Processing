@@ -3,13 +3,11 @@
 # SMS Spam Detection by Natural Language Processing 
 </div>
 
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/69224996/96816845-e589b800-13d2-11eb-9f54-960af811cfb1.jpg" >
 </div>
 
 <br />
-
 
 <div align="justify">
 
