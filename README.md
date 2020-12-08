@@ -16,5 +16,3 @@ The SMS Spam Collection is a set of SMS tagged messages that have been collected
 In this notebook, we will use nltk librarie to predict and classify the label of text messages and correctly predict a given piece of text as Spam or Ham.
 
 </div>
-
-
